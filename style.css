@@ -41,3 +41,29 @@ img {
   display: block;
   margin: 20px 0;
 }
+
+time {
+  font-size: 1.2em;  
+  color: #47008d;    
+  font-weight: bold; 
+  display: inline-block; 
+  margin-top: 10px; 
+}
+
+.author {
+  font-style: italic; 
+  font-size: 1.2em;   
+  text-align: center; 
+  margin-top: 30px;   
+}
+
+.author a {
+  color: #47008d;          
+  text-decoration: none;   
+  font-weight: bold;      
+}
+
+.author a:hover {
+  color: #ff007f;          
+  text-decoration: underline; 
+}
