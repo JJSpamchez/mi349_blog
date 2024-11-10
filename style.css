@@ -11,7 +11,19 @@ body {
   background: #cf9eff;
 }
 
-p {
-  
+h1{
+  font-size: 3em;
+  margin: 0;
 }
 
+p {
+  line-height: 1.4em;
+}
+
+#blog {
+  border-top; 1px dotted #47008d;
+}
+
+.blog-post {
+  border-bottom; 1px dotted #47008d;
+}
