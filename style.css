@@ -49,6 +49,10 @@ time {
   margin-top: 10px; 
 }
 
+.author, address {
+  font-size: normal; /* (please?) */
+}
+
 .author {
   font-size: 1.2em;   
   margin-top: 30px;
