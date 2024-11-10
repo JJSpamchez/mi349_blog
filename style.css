@@ -65,3 +65,14 @@ time {
   color: #ff007f;          
   text-decoration: underline; 
 }
+
+ul li a {
+  color: #47008d;          
+  text-decoration: none;   
+  font-weight: bold;
+}
+
+ul li a:hover {
+  color: #ff007f;          
+  text-decoration: underline;
+}
