@@ -70,6 +70,7 @@ ul li a {
   color: #47008d;          
   text-decoration: none;   
   font-weight: bold;
+  text-decoration: underline;
 }
 
 ul li a:hover {
