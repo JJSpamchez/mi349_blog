@@ -80,3 +80,11 @@ ul li a:hover { /* 14 */
 figcaption { /* 15 */
   font-weight: bold; 
 }
+
+h2 { /* 16 */
+  font-weight: bold;
+}
+
+h3 { /* 17 */
+  font-weight: bold;
+}
