@@ -146,3 +146,11 @@ nav ul li { /* 23 */
 figure { /* 24 */
   float: left;
 }
+
+.me-image {
+  float: right;
+  width: 40%; 
+  margin-left: 20px; 
+  margin-bottom: 10px; 
+  max-width: 100%; 
+}
