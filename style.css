@@ -145,3 +145,7 @@ nav ul li { /* 23 */
 figure { /* 24 */
   float: left;
 }
+
+.me {
+  float: right;
+}
