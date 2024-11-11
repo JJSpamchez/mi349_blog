@@ -1,8 +1,8 @@
-html {
+html { /* 1 */
   background: #bc77ff;
 }
 
-body {
+body { /* 2 */
   font-family: Arial, Helvetica, sans-serif;
   margin: 40px;
   padding: 40px;
@@ -11,72 +11,72 @@ body {
   background: #cf9eff;
 }
 
-h1{
+h1{ /* 3 */
   font-size: 3em;
   margin: 0;
 }
 
-p {
+p { /* 4 */
   line-height: 1.4em;
 }
 
-#blog {
+#blog { /* 5 */
   border-top: 1px dotted #47008d;
 }
 
-.blog-post {
+.blog-post { /* 6 */
   border-bottom: 1px dotted #47008d;
 }
 
-footer {
+footer { /* 7 */
   text-align: center;
   padding: 20px;
   margin-top: 40px;
   font-size: 0.9em;
 }
 
-img {
+img { /* 8 */
   max-width: 45%;
   height: auto;
   display: block;
   margin: 20px 0;
 }
 
-time {
+time { /* 9 */
   font-size: 1.2em;  
   color: #47008d;    
   font-weight: bold; 
   margin-top: 10px; 
 }
 
-.author {
+.author { /* 10 */
   font-size: 1.2em;   
   margin-top: 30px;
   text-decoration: underline;
 }
 
-.author a {
+.author a { /* 11 */
   color: #47008d;          
   text-decoration: none;   
   font-weight: bold;      
 }
 
-.author a:hover {
+.author a:hover { /* 12 */
   color: #ff007f;          
   text-decoration: underline; 
 }
 
-ul li a {
+ul li a { /* 13 */
   color: #47008d;           
   font-weight: bold;
   text-decoration: underline;
 }
 
-ul li a:hover {
+ul li a:hover { /* 14 */
   color: #ff007f;          
   text-decoration: underline;
 }
 
-figcaption {
+figcaption { /* 15 */
   font-weight: bold; 
 }
