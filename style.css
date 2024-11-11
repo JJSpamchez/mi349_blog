@@ -119,6 +119,7 @@ header { /* 22 */
   position: sticky;
   top: 0;  
   background-color: #cf9eff;  
+  padding: 10px 0;
 }
 
 nav ul { /* 23 */
