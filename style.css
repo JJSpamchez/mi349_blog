@@ -37,7 +37,6 @@ footer { /* 7 */
 }
 
 img { /* 8 */
-  max-width: 30%;
   height: auto;
   display: block;
   margin: 20px 0;
@@ -137,8 +136,4 @@ nav ul li { /* 24 */
 
 figure {
   float: left;
-}
-
-figure img {
-  width: 100%
 }
