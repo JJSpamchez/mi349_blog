@@ -94,6 +94,7 @@ h3 { /* 17 */
 }
 
 table { /* 18 */
+  border-top: 1px dotted #47008d;
   width: 80%; 
   margin: 0 auto; 
   border-collapse: collapse;
