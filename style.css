@@ -146,11 +146,8 @@ figure { /* 24 */
   float: left;
 }
 
-.me {
-  float: right;
-}
-
 .me img {
+  float: right;
   max-width: 50%;
   height: auto;
 }
