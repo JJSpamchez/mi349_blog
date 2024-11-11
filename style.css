@@ -26,6 +26,7 @@ p { /* 4 */
 }
 
 .blog-post { /* 6 */
+  margin-top: 20px;
   border-bottom: 1px dotted #47008d;
 }
 
