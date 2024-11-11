@@ -29,7 +29,6 @@ p { /* 4 */
 .blog-post { /* 6 */
   margin: 20px;
   padding: 20px;
-  border-bottom: 1px dotted #47008d;
 }
 
 .blog-post:nth-of-type(1) {
@@ -100,7 +99,7 @@ h2 { /* 16 */
 table /* 17 */
   border-top: 1px dotted #47008d;
   width: 80%; 
-  margin: 0 auto; 
+  margin-top: 20px
   border-collapse: collapse;
 }
 
