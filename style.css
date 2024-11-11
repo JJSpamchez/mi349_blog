@@ -145,9 +145,3 @@ nav ul li { /* 23 */
 figure { /* 24 */
   float: left;
 }
-
-.me img {
-  float: right;
-  max-width: 50%;
-  height: auto;
-}
