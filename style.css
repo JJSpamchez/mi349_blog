@@ -46,6 +46,7 @@ footer { /* 7 */
 }
 
 img { /* 8 */
+  float: left;
   max-width: 100%;
   height: auto;
   display: block;
