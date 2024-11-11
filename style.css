@@ -120,3 +120,8 @@ header { /* 22 */
   top: 0;  
   background-color: #cf9eff;  
 }
+
+nav ul {
+  display: flex;
+  justify-content: center;
+}
