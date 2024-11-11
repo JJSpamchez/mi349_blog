@@ -138,3 +138,7 @@ nav ul li { /* 24 */
 figure {
   float: left;
 }
+
+figure img {
+  width: 100%
+}
