@@ -22,6 +22,7 @@ p { /* 4 */
 }
 
 #blog { /* 5 */
+  display: flex;
   border-top: 1px dotted #47008d;
 }
 
