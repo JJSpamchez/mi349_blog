@@ -76,3 +76,7 @@ ul li a:hover {
   color: #ff007f;          
   text-decoration: underline;
 }
+
+figcaption {
+  font-weight: bold; 
+}
