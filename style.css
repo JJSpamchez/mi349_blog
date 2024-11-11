@@ -121,7 +121,11 @@ header { /* 22 */
   background-color: #cf9eff;  
 }
 
-nav ul {
+nav ul { /* 23 */
   display: flex;
   justify-content: center;
+}
+
+nav ul li { /* 24 */
+  margin: 0 15px;      
 }
