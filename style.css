@@ -114,3 +114,9 @@ h4{ /* 21 */
   vertical-align: middle;
   margin-bottom: 40px;
 }
+
+header { /* 22 */
+  position: sticky;
+  top: 0;  
+  background-color: #cf9eff;  
+}
